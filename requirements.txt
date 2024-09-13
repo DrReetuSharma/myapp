@@ -1,3 +1,5 @@
 streamlit
-pandas
-numpy
+langchain
+openai
+pinecone-client
+tiktoken
