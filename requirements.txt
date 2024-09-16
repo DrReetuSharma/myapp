@@ -1,6 +1,6 @@
-streamlit
-langchain
-openai
-pinecone-client
-tiktoken
-transformer
+streamlit==1.38.0
+langchain==0.3.0
+openai==1.45.0
+pinecone-client==5.0.1
+tiktoken==0.7.0
+transformers==4.31.0
